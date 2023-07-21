@@ -1,6 +1,6 @@
 # CNN-for-Heart-Disease-prediction
 Heart Disease prediction using a Convolutional Neural Network
-- Done on jupyter notebook using python inbuilt libraries like keras and tensorflow
+- Done on jupyter notebook using python inbuilt libraries like numpy, pandas, and sklearn
 - Cleveland heart disease dataset used
 - pre-processed dataset
 - applied various machine learning algorithms
