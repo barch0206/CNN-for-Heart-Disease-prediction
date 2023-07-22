@@ -7,4 +7,4 @@ Heart Disease prediction using a Convolutional Neural Network
 - proposed a new CNN model architecture
 - trained and tested all models
 - further compared results of my CNN model with models of some published research papers using evaluation metrics
-- wrote a research paper using the above implementation
+- wrote a research paper on the above implementation
